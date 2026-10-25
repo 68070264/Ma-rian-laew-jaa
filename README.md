@@ -26,7 +26,7 @@
 ## Tools
 | Arduino Uno R4 | Thermistor | RFID RC522 |
 | --- | --- | --- |
-| ใส่รูป | ใส่รูป | ใส่รูป |
+| <img src="./images/arduino.png" width = 200> | <img src="./images/Thermistor.png" width = 200> | <img src="./images/RFID.png" width = 200> |
 
 ## Web github.io
 ใส่ลิ้งค์
