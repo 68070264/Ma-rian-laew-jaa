@@ -35,7 +35,7 @@
 ใส่ลิ้งค์
 
 ## Poster
-ใส่รูป
+<img src="./images/Physical computing Project Poster.png" width = 700>
 
 ## Source
 * ใส่ลิ้งค์
