@@ -35,7 +35,7 @@ https://68070264.github.io/Ma-rian-laew-jaa/
 https://youtu.be/eA89S1MFqkc
 
 ## Poster
-<img src="./images/Physical computing Project Poster.png" width = 700>
+<img src="./images/Physical computing Project.png" width = 700>
 
 ## Source
 - https://www.cybertice.com/article/116/สอนใช้งาน-arduino-เชื่อมต่อ-rfid-module-อ่านบัตรคีย์การ์ด-ควบคุมเปิดปิดไฟ-led?gad_source=1&gad_campaignid=23053428197&gbraid=0AAAAADc4pmMJUiAuvXsPqvIjfNA5iWGg2&gclid=CjwKCAjw9PvWBhAxEiwAddzYyUTssQho-eIBCGa1ISMZdcZ5H3MPDI5-zR2_by28KJpbAkzy4lCtnBoC8XYQAvD_BwE
