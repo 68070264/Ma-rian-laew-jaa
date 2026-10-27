@@ -32,7 +32,7 @@
 https://68070264.github.io/Ma-rian-laew-jaa/
 
 ## Demo Video
-ใส่ลิ้งค์
+https://youtu.be/eA89S1MFqkc
 
 ## Poster
 <img src="./images/Physical computing Project Poster.png" width = 700>
