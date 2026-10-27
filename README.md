@@ -38,4 +38,8 @@
 <img src="./images/Physical computing Project Poster.png" width = 700>
 
 ## Source
-* ใส่ลิ้งค์
+- https://www.cybertice.com/article/116/สอนใช้งาน-arduino-เชื่อมต่อ-rfid-module-อ่านบัตรคีย์การ์ด-ควบคุมเปิดปิดไฟ-led?gad_source=1&gad_campaignid=23053428197&gbraid=0AAAAADc4pmMJUiAuvXsPqvIjfNA5iWGg2&gclid=CjwKCAjw9PvWBhAxEiwAddzYyUTssQho-eIBCGa1ISMZdcZ5H3MPDI5-zR2_by28KJpbAkzy4lCtnBoC8XYQAvD_BwE
+- https://youtu.be/cYUylJyeuS8?si=w_vcRV0S7T0vdUK3
+- https://www.ab.in.th/article/72/สอนใช้งานโมดูล-rfid-rc522-ร่วมกับ-arduino-อ่านการ์ดและแท็กแบบง่ายๆ-อัพเดท-2026?srsltid=AYCX9vIRDawMx-MR-JPGN5z-nhhoqxMb_dSSCvj57CXuZZcYAIQL-a3z
+
+
