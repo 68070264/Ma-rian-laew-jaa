@@ -29,7 +29,7 @@
 | <img src="./images/arduino.png" width = 200> | <img src="./images/Thermistor.png" width = 200> | <img src="./images/RFID.png" width = 200> |
 
 ## Web github.io
-ใส่ลิ้งค์
+https://68070264.github.io/Ma-rian-laew-jaa/
 
 ## Demo Video
 ใส่ลิ้งค์
